@@ -5,3 +5,4 @@
 - **Neutronyx Gamma** → Otimização térmica e resistência a plasma
 - **Neutronyx Delta** → Compressão abissal (ambientes oceânicos extremos)
 - **Neutronyx Sigma** → Dissipação de impacto e energia cinética
+- **Neutronyx AlphaPRIMORDIAL**
