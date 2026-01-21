@@ -13,3 +13,4 @@ O Alpha representa o estado zero:
 - Antes da especialização
 - Antes da função
 - Antes da aplicação
+098487&-958

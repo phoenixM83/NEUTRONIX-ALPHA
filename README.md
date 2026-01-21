@@ -15,7 +15,7 @@ Neutronyx Alpha é um estado avançado de matéria engenheirada, caracterizado p
 
 📌 Não é uma liga metálica — é um **estado de organização da matéria**.
 
----
+3769876¨670949489
 
 ## 🌌 História de Origem
 Inspirado em núcleos estelares colapsados, matéria degenerada e redes cristalinas frustradas.  

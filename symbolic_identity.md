@@ -11,3 +11,4 @@ Um núcleo denso envolto por anéis colapsados, lembrando:
 - Não brilha
 - Absorve presença
 - Impõe silêncio
+0978567777-05487&&

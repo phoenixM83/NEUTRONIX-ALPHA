@@ -28,4 +28,5 @@ Função: barreira térmica e rigidez extrema localizada.
 ## Organização
 Eles não se misturam.  
 Eles coexistem em arquitetura hierárquica, cada família atuando em uma escala.  
-A resistência vem da **organização**, não da soma.
+A resistência vem da **organização**, não da soma...
+98&-0997
